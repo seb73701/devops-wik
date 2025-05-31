@@ -1,0 +1,19 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "DevOps-Wik"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2006-01-02"
+logo = "media/images/logo-homer.png"
+description = "The Best Of Wiki IT!"
+
+["params.author"]
+name = "Me"
+image = "media/images/logo-homer.png"
+imageQuality = 100
+headline = "It's Best Wiki!"

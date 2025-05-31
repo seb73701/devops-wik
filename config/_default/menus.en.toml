@@ -1,0 +1,29 @@
+[[main]]
+name = "Articles"
+pageRef = "articles"
+identifier = "itTTEk8g6A"
+weight = 9_999
+
+[[main]]
+name = "Catégories"
+pre = "hashnode"
+pageRef = "categories"
+identifier = "7Y6rjhU50x"
+weight = 9_999
+
+[[main]]
+name = "Tags"
+pre = "tag"
+pageRef = "tags"
+identifier = "PdmEvEoPcV"
+weight = 9_999
+
+[[main]]
+name = "Glossaire"
+pre = "pencil"
+pageRef = "glossaires"
+identifier = "N9KaNMUIPL"
+weight = 9_999
+
+[[footer]]
+none = "none"
