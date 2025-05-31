@@ -67,7 +67,7 @@ showTaxonomies = false
 showCategoryOnly = false
 showAuthorsBadges = false
 showWordCount = false
-showZenMode = false
+showZenMode = true
 
 [list]
 showHero = false
